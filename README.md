@@ -1,2 +1,2 @@
 # backbone-blog-app
-simple backbone blog app 
+Template for creating backbone projects
