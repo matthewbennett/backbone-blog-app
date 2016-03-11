@@ -4,4 +4,6 @@ define(['backbone'], function(Backbone) {
 			console.log('Wahoo');
 		}
 	});
+
+	return App;
 });
